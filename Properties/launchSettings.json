@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Desklock (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Desklock (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
